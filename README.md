@@ -1,4 +1,4 @@
 # docs
 
-[https://github.com/GeometryOfData/docs/wiki Wiki] and general documents.
+[Wiki](https://github.com/GeometryOfData/docs/wiki) and general documents.
 
